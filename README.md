@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Science Teacher Experimental App
+
+- This uses OpenAI so a .env file with `OPENAI_API_KEY` is required
+- The app is an assistant that is a science teacher for ten year olds
+- It asks questions, receives the users answers and grades them
+
 ## Getting Started
 
 First, run the development server:
